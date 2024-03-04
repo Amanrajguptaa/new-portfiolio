@@ -1,0 +1,34 @@
+*{
+    color:white;
+    margin: 0px;
+    padding:0px;
+}
+p{
+    margin-left: 50px;
+    font-size: 50px;
+}
+nav{
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    height:100px;
+}
+button {
+    border:none;
+    padding:8px;
+    background-color:black;
+}
+button:hover {
+    background-color:purple;
+}
+li{
+    text-decoration: none;
+}
+
+.menu{
+    display: flex;
+    margin-right: 50px;
+    gap: 50px;
+}
